@@ -146,23 +146,46 @@ export class ContentProcessor {
     const overlapSize = options.overlapSize || this.DEFAULT_OVERLAP_SIZE
     const chunks: ProcessedContent[] = []
     
-    // Split content into sentences first
+    // Split content into sentences
     const sentences = content.match(/[^.!?]+[.!?]+/g) || [content]
     let currentChunk = ''
     
-    for (const sentence of sentences) {
+    for (let i = 0; i < sentences.length; i++) {
+      const sentence = sentences[i]
+      
+      // If adding this sentence would exceed chunk size
       if ((currentChunk + sentence).length > chunkSize && currentChunk.length > 0) {
+        // Add the current chunk to our chunks array
         chunks.push({
           content: currentChunk.trim(),
           metadata: options.metadata
         })
-        // Keep last part for overlap
-        currentChunk = currentChunk.slice(-overlapSize) + sentence
+        
+        // Start new chunk with overlap, but only if we're not at the end
+        // and only include complete sentences in the overlap
+        if (i < sentences.length - 1) {
+          // Find the last few sentences that fit within overlap size
+          let overlapText = ''
+          let j = chunks.length - 1
+          while (overlapText.length < overlapSize && j >= 0) {
+            const potentialOverlap = sentences[j] + overlapText
+            if (potentialOverlap.length <= overlapSize) {
+              overlapText = potentialOverlap
+              j--
+            } else {
+              break
+            }
+          }
+          currentChunk = overlapText + sentence
+        } else {
+          currentChunk = sentence
+        }
       } else {
         currentChunk += sentence
       }
     }
     
+    // Add the final chunk if there's anything left
     if (currentChunk.length > 0) {
       chunks.push({
         content: currentChunk.trim(),

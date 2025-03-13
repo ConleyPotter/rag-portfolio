@@ -7,9 +7,9 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "ingest": "tsx src/scripts/ingest.ts",
     "test-db": "tsx src/scripts/test-db.ts",
-    "bulk-ingest": "tsx src/scripts/bulk-ingest.ts"
+    "ingest-data": "tsx src/scripts/ingest.ts",
+    "ingest-content": "tsx src/scripts/bulk-ingest.ts"
   },
   "dependencies": {
     "@radix-ui/react-slot": "^1.1.2",

@@ -37,7 +37,7 @@ export async function POST(req: Request) {
     // Get relevant context from the vector store
     const { data: documents, error: matchError } = await supabase.rpc('match_documents', {
       query_embedding: embedding.data[0].embedding,
-      match_threshold: 0.6,
+      match_threshold: 0.3,
       match_count: 5,
     })
 
