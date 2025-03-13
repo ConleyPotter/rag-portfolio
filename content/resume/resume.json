@@ -1,0 +1,136 @@
+{
+    "basics": {
+      "summary": "Director of Marketing Technology with 7 years of experience and extensive expertise in digital transformation and business growth, leveraging innovative marketing strategies and advanced tech solutions. Demonstrates proficiency in leading cross-functional teams and optimizing customer experiences through marketing automation and CRM integrations, achieving significant improvements in conversion rates. Passionate about data-driven insights to future-proof marketing operations and drive measurable results."
+    },
+    "work": [
+      {
+        "position": "Director of Marketing Technology",
+        "company": "Stoltzfus Structures, Horizon Structures",
+        "startDate": "February 2024",
+        "endDate": "Present",
+        "summary": "Lead technical marketing strategy and manage development team, implementing modern tech stack solutions to improve marketing efficiency and customer experience. Spearhead digital transformation initiatives, like migrating websites to a modern tech stack, which in turn dramatically improved site performance and best practices. Optimize marketing automation and CRM integrations using Salesforce Marketing Cloud, SF Marketing Intelligence, SF Data Cloud, Google Analytics. Translate complex technical concepts into actionable marketing strategies for stakeholders.",
+        "highlights": [
+          "Lead technical marketing strategy and managed development team, implementing modern tech stack solutions to improve marketing efficiency and customer experience.",
+          "Spearhead digital transformation initiatives, like migrating websites to a modern tech stack, which in turn dramatically improved site performance and best practices.",
+          "Optimize marketing automation and CRM integrations using Salesforce Marketing Cloud, SF Marketing Intelligence, SF Data Cloud, Google Analytics.",
+          "Translate complex technical concepts into actionable marketing strategies for stakeholders."
+        ]
+      },
+      {
+        "position": "Manager of Financial Empowerment Center",
+        "company": "Tenfold",
+        "startDate": "July 2022",
+        "endDate": "October 2023",
+        "summary": "Spearheaded strategic initiatives, boosting funding efficiency and optimizing service delivery through data-driven strategies and team leadership. Pioneered data analytics framework to evaluate and enhance service delivery, driving significant improvements in operational efficiency and client outcomes. Fostered a high-performing team culture, leading 12 staff members to exceed targets and deliver exceptional results while appropriately managing a government-grant-based budget.",
+        "highlights": [
+          "Spearheaded strategic initiatives, boosting funding efficiency and optimizing service delivery through data-driven strategies and team leadership.",
+          "Pioneered data analytics framework to evaluate and enhance service delivery, driving significant improvements in operational efficiency and client outcomes.",
+          "Fostered a high-performing team culture, leading 12 staff members to exceed targets and deliver exceptional results while appropriately managing a government-grant-based budget."
+        ]
+      },
+      {
+        "position": "Digital Marketing Director",
+        "company": "Self-Employed",
+        "startDate": "January 2021",
+        "endDate": "February 2024",
+        "summary": "Executed data-driven marketing strategies, resulting in an average 35% increase in conversion rates for new clients. Orchestrated high-impact marketing campaigns, delivering exceptional ROI for clients, including a notable 15x return for a premier interior design firm. Directed cross-functional teams of contractors, ensuring timely delivery of comprehensive marketing deliverables and fostering a culture of excellence. Leveraged data-driven insights to optimize marketing strategies, resulting in measurable improvements in lead generation and campaign effectiveness.",
+        "highlights": [
+          "Executed data-driven marketing strategies, resulting in an average 35% increase in conversion rates for new clients.",
+          "Orchestrated high-impact marketing campaigns, delivering exceptional ROI for clients, including a notable 15x return for a premier interior design firm.",
+          "Directed cross-functional teams of contractors, ensuring timely delivery of comprehensive marketing deliverables and fostering a culture of excellence.",
+          "Leveraged data-driven insights to optimize marketing strategies, resulting in measurable improvements in lead generation and campaign effectiveness."
+        ]
+      },
+      {
+        "position": "Web Developer and SEO Consultant",
+        "company": "Self-Employed",
+        "startDate": "August 2019",
+        "endDate": "January 2021",
+        "summary": "Orchestrated end-to-end website development projects, dramatically enhancing organic search traffic and lead generation, driving sustainable growth. Partnered with clients to implement effective SEO strategies, improving online visibility. Created customized web solutions using modern development tools. Meticulously analyzed and optimized website performance, enhancing search rankings. Developed precise, efficient web solutions using contemporary JavaScript frameworks.",
+        "highlights": [
+          "Orchestrated end-to-end website development projects, dramatically enhancing organic search traffic and lead generation, driving sustainable growth.",
+          "Partnered with clients to implement effective SEO strategies, improving online visibility.",
+          "Created customized web solutions using modern development tools.",
+          "Meticulously analyzed and optimized website performance, enhancing search rankings.",
+          "Developed precise, efficient web solutions using contemporary JavaScript frameworks."
+        ]
+      },
+      {
+        "position": "Technical Services Analyst",
+        "company": "Epic",
+        "startDate": "May 2018",
+        "endDate": "September 2018",
+        "summary": "Consulted on information governance and data integrity to Fortune 100 healthcare institutions, resulting in enhanced safeguarding and gathering of strategic insight from critical data. Identified data discrepancies and organized a team to correct inaccuracies within large-scale data sets, directing the implementation of automated solutions within one client organization to eradicate patient safety-critical data inaccuracy by way of combining approximately 300,000 duplicate patient records. Forged strategic partnerships with internal and external stakeholders, aligning technical optimizations with business objectives and outperforming customer satisfaction benchmarks. Analyzed complex healthcare systems, optimizing workflows and enhancing patient care. Developed innovative solutions, significantly improving operational efficiency.",
+        "highlights": [
+          "Consulted on information governance and data integrity to Fortune 100 healthcare institutions, resulting in enhanced safeguarding and gathering of strategic insight from critical data.",
+          "Identified data discrepancies and organized a team to correct inaccuracies within large-scale data sets, directing the implementation of automated solutions within one client organization to eradicate patient safety-critical data inaccuracy by way of combining approximately 300,000 duplicate patient records.",
+          "Forged strategic partnerships with internal and external stakeholders, aligning technical optimizations with business objectives and outperforming customer satisfaction benchmarks.",
+          "Analyzed complex healthcare systems, optimizing workflows and enhancing patient care.",
+          "Developed innovative solutions, significantly improving operational efficiency."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "App Academy",
+        "startDate": "2019",
+        "endDate": "2019",
+        "degree": "Full-stack web development bootcamp",
+        "description": "A highly selective, rigorously intensive software engineering boot camp that teaches full-stack web development, focusing on Ruby, JavaScript, SQL, and React."
+      },
+      {
+        "institution": "University of Wisconsin, Madison",
+        "startDate": "2015",
+        "endDate": "2018",
+        "degree": "Bachelor of Arts in Chinese and English Literature",
+        "description": "Dean's List. Winner of the Benjamin E. Gilman Scholarship and the Chinese Department Senior Scholarship Award."
+      },
+      {
+        "institution": "DePaul University",
+        "startDate": "2013",
+        "endDate": "2015",
+        "degree": "Bachelor of Science in Computer Science",
+        "description": "GPA of 3.8/4.0 before transferring to UW-Madison. High Honors. Top 10% of class. Didn't complete degree here."
+      }
+    ],
+    "skills": [
+      "Digital Marketing",
+      "SEO",
+      "Email Marketing",
+      "Content Strategy",
+      "Marketing Automation",
+      "PPC",
+      "HubSpot",
+      "Google Analytics",
+      "Salesforce",
+      "Next.js",
+      "TypeScript",
+      "React",
+      "Google Ads",
+      "SQL",
+      "Meta Ads",
+      "Team Management",
+      "Campaign Development",
+      "Project Management",
+      "Digital Transformation",
+      "Data-Driven Decision Making",
+      "Operational Efficiency",
+      "Team Leadership",
+      "Technical Strategy",
+      "Data Analytics"
+    ],
+    "volunteer": [
+      {
+        "position": "Vice President and Marketing Team Lead",
+        "company": "Chinese Language and Culture Club @UW Madison",
+        "startDate": "September 2016",
+        "endDate": "May 2018",
+        "summary": "Coordinated a team of up to 15 volunteer marketers, effectively delegating tasks and ensuring efficient workflow to increase the club's online visibility and engagement. Increased email list engagement by 50% through the development and implementation of a weekly newsletter run through MailChimp, reaching over 2,000 recipients. Executed a comprehensive content strategy across multiple platforms, including Instagram, Facebook, and email newsletter.",
+        "highlights": [
+          "Coordinated a team of up to 15 volunteer marketers, effectively delegating tasks and ensuring efficient workflow to increase the club's online visibility and engagement.",
+          "Increased email list engagement by 50% through the development and implementation of a weekly newsletter run through MailChimp, reaching over 2,000 recipients.",
+          "Executed a comprehensive content strategy across multiple platforms, including Instagram, Facebook, and email newsletter."
+        ]
+      }
+    ]
+  }

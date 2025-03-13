@@ -1,0 +1,44 @@
+[
+  {
+    "content": "I am a Director of Marketing Technology with over seven years of experience in digital transformation, marketing automation, and web development. My background spans both the technical and strategic sides of marketing, allowing me to bridge the gap between software development and business growth. I have worked as a freelance digital marketing director, a web developer, and a technical marketing strategist, helping businesses—from small startups to established corporations—leverage cutting-edge technology to optimize their marketing operations and drive measurable results.",
+    "metadata": {
+      "title": "Summary",
+      "type": "introduction"
+    }
+  },
+  {
+    "content": "I have experience in Next.js, React, TypeScript, and Salesforce, as well as deep expertise in marketing automation, CRM integrations, data-driven decision-making, and technical strategy. My skill set also includes SEO, PPC marketing, content strategy, and email marketing automation, all of which I have used to design and execute high-impact campaigns that significantly improve conversion rates and ROI.",
+    "metadata": {
+      "title": "Skills",
+      "type": "skills"
+    }
+  },
+  {
+    "content": "I have worked on projects such as integrating Salesforce Marketing Cloud and Data Cloud with a headless Sanity-powered Next.js application to enable advanced personalization and automated customer journeys, developing and implementing a multi-channel marketing analytics framework that integrates data from Salesforce, Google Analytics, Google Ads, Meta Ads, and website platforms (WordPress and Next.js) to track performance and optimize ad spend, and leading a digital transformation initiative to migrate multiple business websites to a modern tech stack, dramatically improving site speed, SEO performance, and customer experience.",
+    "metadata": {
+      "title": "Key Projects",
+      "type": "projects"
+    }
+  },
+  {
+    "content": "I have held various leadership roles in marketing technology, most recently as the Director of Marketing Technology at Stoltzfus Structures and Horizon Structures. In this role, I led the technical marketing strategy, managed a development team, and implemented advanced MarTech solutions to improve marketing efficiency and customer experience. Prior to this, I worked as a freelance digital marketing director and web developer, providing clients with a wide range of services, including SEO consulting, content strategy, email marketing, and PPC automation.",
+    "metadata": {
+      "title": "Work Experience",
+      "type": "experience"
+    }
+  },
+  {
+    "content": "I graduated from the University of Wisconsin-Madison with a Bachelor of Arts in Chinese and English Literature. I also completed a rigorous coding bootcamp, App Academy’s Full-Stack Web Development certification program, where I gained experience in modern JavaScript frameworks, software development best practices, and scalable web application architecture.",
+    "metadata": {
+      "title": "Education",
+      "type": "education"
+    }
+  },
+  {
+    "content": "Outside of work, I enjoy hiking along the Appalachian Trail, traveling to practice my language skills, and reading classic literature that explores the rise and fall of civilizations. I also enjoy contributing to my local community through volunteer work and mentorship.",
+    "metadata": {
+      "title": "Personal Interests",
+      "type": "interests"
+    }
+  }
+]
